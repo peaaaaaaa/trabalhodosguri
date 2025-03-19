@@ -1,0 +1,42 @@
+
+
+
+
+ #banner{
+    
+    width: default;
+    height: 200px;
+    margin-bottom: 30px;
+    border-radius: 12px;
+
+}
+#genero{
+   font-family:
+
+}
+#textomotivacional{
+  align-items: center;
+   .courgette-regular{
+    font-family: "Courgette", cursive;
+    font-weight: 400;
+    font-style: normal;
+  }
+  
+}
+#tenispreto{
+    align-items: center;
+}
+#tenisbranco{
+    align-items: center;
+}
+#imagemfoda1{
+    height: auto;
+}
+.carousel-item img{
+    height: auto;
+    border-radius: 12px;
+}
+
+footer{
+    text-align: center;
+}
